@@ -1,0 +1,1363 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+.fyasqs-left p {
+    font-family: "GraphikRegular";
+    color: #2D3740;
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 24.8px;
+}
+
+
+
+.fyasqs-right img {
+    width: 329px;
+    height: 341px;
+    display: block;
+    margin-right: 0;
+    position: relative;
+    left: -57px;
+}
+
+
+.fyasqs-left h2 {
+    font-family: "Gilroy-ExtraBold";
+    color: #2D3740;
+    font-size: 42px;
+    margin: 0;
+    padding-bottom: 17px;
+}
+
+
+.ctas-left p {
+    font-family: "GraphikRegular";
+    color: #2D3740;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 24.8px;
+    padding-bottom: 28px;
+    padding-top: 0px;
+}
+
+.ctas-left h5 {
+    font-family: "GraphikRegular";
+    color: #575f66;
+    font-size: 14px;
+    width: 100%;
+    height: 66px;
+    padding: 0 29px;
+    background: #FFFFFF;
+    box-shadow: 2px 10px 50px rgb(11 212 136 / 10%), inset -5px -5px 10px #eafaff, inset 5px 5px 10px #fbffff;
+    border-radius: 200px;
+    line-height: 66px;
+    margin: 0;
+}
+
+.ctas-right img {
+    display: block;
+    margin: auto;
+    margin-right: 0;
+    width: 444px;
+    height: 406px;
+    position: relative;
+    left: 27px;
+}
+
+
+.features-part {
+    width: 100%;
+}
+
+
+.features-left img {
+    width: 100%;
+    height: inherit;
+    display: block;
+    margin-top: 22px;
+}
+
+
+.features-right1 p {
+    font-size: 12px;
+}
+
+.features-right2 p {
+    font-size: 12px;
+}
+
+.features-right3 p {
+    font-size: 12px;
+}
+
+.hero-left p {
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 24.8px;
+    padding-bottom: 29px;
+    padding-top: 18px;
+}
+
+.hero-left h2 {
+    font-family: "Gilroy-ExtraBold";
+    color: #2D3740;
+    font-size: 38px;
+    line-height: 57px;
+    margin: 0;
+    position: relative;
+}
+
+.hero-left img {
+    position: absolute;
+    width: 185px;
+    height: 71px;
+    left: 109px;
+    top: -10px;
+}
+
+
+
+
+
+.ppp1 {
+    font-size: 15px;
+    margin: 0;
+    line-height: 30.8px;
+    position: absolute;
+    top: 102px;
+    padding-left: 531px;
+}
+
+.ppp2 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 15px;
+    margin: 0;
+    line-height: 30.8px;
+    position: absolute;
+    top: 355px;
+    text-align: right;
+    left: 203px;
+}
+
+.ppp3 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 15px;
+    margin: 0;
+    line-height: 30.8px;
+    position: absolute;
+    top: 631px;
+    padding-left: 538px;
+}
+
+
+.ppp4 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 15px;
+    margin: 0;
+    line-height: 30.8px;
+    position: absolute;
+    top: 862px;
+    text-align: right;
+    left: 203px;
+}
+
+
+.ppp5 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 15px;
+    margin: 0;
+    line-height: 30.8px;
+    position: absolute;
+    top: 1143px;
+    padding-left: 536px;
+}
+
+
+.ppp6 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 15px;
+    margin: 0;
+    line-height: 30.8px;
+    position: absolute;
+    top: 1359px;
+    text-align: right;
+    left: 95px;
+}
+
+
+.ppp7 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 15px;
+    margin: 0;
+    line-height: 30.8px;
+    position: absolute;
+    padding-left: 550px;
+    bottom: 122px;
+}
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+
+.features-part {
+    width: 100%;
+    height: inherit;
+    padding: 50px;
+}
+
+
+.ctas-right img {
+    display: block;
+    margin: auto;
+    margin-right: 0;
+    width: 100%;
+    height: initial;
+    position: relative;
+    left: 0px;
+    margin-top: -107px;
+}
+
+.hero-left h2 {
+    font-size: 24px;
+    line-height: 38px;
+    margin: 0;
+    position: relative;
+}
+
+.hero-left ul li a {
+    width: 136px;
+    height: 60px;
+    line-height: 60px;
+}
+
+.hero-left ul li:nth-child(2) a {
+    width: 136px;
+    height: 60px;
+    line-height: 60px;
+}
+
+.header-right ul li {
+    float: left;
+    padding-left: 30px;
+}
+
+.header-right ul {
+    padding-top: 25px;
+}
+
+.hero-area {
+    padding: 20px 0;
+    padding-top: 40px;
+}
+
+
+.hero-left img {
+    position: absolute;
+    width: 117px;
+    height: 55px;
+    left: 68px;
+    top: -10px;
+}
+
+.features-left img {
+    width: 402px;
+    height: 390px;
+    display: block;
+    margin-top: 22px;
+    margin: auto;
+    margin-bottom: 31px;
+}
+
+
+.ctas-left h2 {
+    font-size: 34px;
+    margin: 0;
+    padding-bottom: 15px;
+}
+
+
+.ctas-left h5 {
+    font-size: 10px;
+    width: 100%;
+    height: 66px;
+    padding: 0 17px;
+    background: #FFFFFF;
+    border-radius: 200px;
+    line-height: 66px;
+    margin: 0;
+}
+
+.roadmap-part img {
+    max-width: 40%;
+    display: block;
+    margin: auto;
+}
+
+
+
+.ppp1 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 12px;
+    margin: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 103px;
+    padding-left: 389px
+}
+
+.ppp2 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 12px;
+    margin: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 365px;
+    text-align: right;
+    left: 141px;
+}
+
+
+.ppp3 {
+    font-size: 12px;
+    margin: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 635px;
+    padding-left: 389px;
+}
+
+
+.ppp7 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 12px;
+    margin: 0;
+    line-height: 22px;
+    position: absolute;
+    padding-left: 393px;
+    bottom: 125px;
+}
+
+.ppp4 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 12px;
+    margin: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 873px;
+    text-align: right;
+    left: 145px;
+}
+
+.ppp5 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 12px;
+    margin: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 1147px;
+    padding-left: 391px;
+}
+
+.ppp6 {
+    font-family: "GraphikSemibold";
+    color: #424b54;
+    font-size: 12px;
+    margin: 0;
+    line-height: 22px;
+    position: absolute;
+    top: 1376px;
+    text-align: right;
+    left: 65px;
+}
+
+
+
+.fyasqs-left h2 {
+    font-family: "Gilroy-ExtraBold";
+    color: #2D3740;
+    font-size: 30px;
+    margin: 0;
+    padding-bottom: 17px;
+}
+
+.fyasqs-left p {
+    font-family: "GraphikRegular";
+    color: #2D3740;
+    font-size: 10px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 24.8px;
+}
+
+.ziehharmonika h3 {
+    font-family: "GraphikSemibold";
+    color: #414b53;
+    font-size: 17px;
+    text-align: left;
+    border-radius: 4px;
+    padding: 22px 0px;
+    cursor: pointer;
+    margin-top: 0;
+    margin-bottom: 2px;
+    padding-right: 40px;
+    transition: 0.25s all;
+    position: relative;
+    border-bottom: 1px solid #dae1dd;
+}
+
+.ziehharmonika .collapseIcon {
+    position: absolute;
+    right: 16px;
+    top: 57%;
+    font-size: 20px;
+    font-weight: 300;
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+}
+
+.fyasqs-right img {
+    width: 282px;
+    height: 303px;
+    display: block;
+    margin-right: 0;
+    position: relative;
+    left: -57px;
+}
+
+.dnfyasqs-part {
+    position: relative;
+    margin-top: -74px;
+}
+
+.fyasqs-area {
+    padding: 43px 0;
+    padding-top: 0px;
+}
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+
+.mobileheader-area {
+    display: block;
+}
+
+.navbar-brand img {
+    width: 101px;
+}
+
+.main-menu-part ul {
+    padding-top: 0px;
+    padding-bottom: 15px;
+}
+
+.main-menu-part ul li {
+    float: none;
+    border-bottom: 1px solid #000000;
+}
+
+.main-menu-part ul li a {
+    padding: 21px 0px 12px 5px;
+}
+
+.header-area {
+    padding: 15px 0;
+    display: none;
+}
+
+
+.hero-left h2 {
+    font-size: 21px;
+    line-height: 34px;
+    margin: 0;
+    position: relative;
+}
+
+.hero-area {
+    padding: 20px 0;
+    padding-top: 40px;
+}
+
+.hero-left img {
+    position: absolute;
+    width: 145px;
+    height: 51px;
+    left: -13px;
+    top: -10px;
+}
+
+.hero-left p {
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 24.8px;
+    padding-bottom: 29px;
+    padding-top: 18px;
+}
+
+.hero-left ul li {
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.hero-left ul li a {
+    width: 130px;
+    height: 50px;
+    border-radius: 100px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.hero-left ul li:nth-child(2) a {
+    width: 129px;
+    height: 50px;
+    border-radius: 100px;
+    display: inline-block;
+    line-height: 50px;
+}
+
+.hero-right img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    position: relative;
+    left: 0;
+    margin-top: 38px;
+}
+
+.features-area {
+    padding: 35px 0;
+    padding-bottom: 35px;
+}
+
+.features-part {
+    width: 100%;
+    height: inherit;
+    padding: 19px;
+    border-radius: 24px;
+}
+
+
+.features-left img {
+    width: 100%;
+    height: inherit;
+    display: block;
+    margin-top: 19px;
+    margin-bottom: 25px;
+}
+
+.features-right h2 {
+    font-size: 34px;
+    margin: 0;
+    padding-bottom: 11px;
+}
+
+
+
+.features-right1 {
+    width: 100%;
+    height: initial;
+    border-radius: 10px;
+    padding: 17px;
+    margin-bottom: 15px;
+}
+
+
+.features-right2 {
+    width: 100%;
+    height: initial;
+    border-radius: 10px;
+    padding: 17px;
+    margin-bottom: 15px;
+}
+
+
+.features-right3 {
+    width: 100%;
+    height: initial;
+    border-radius: 10px;
+    padding: 17px;
+    margin-bottom: 15px;
+}
+
+.ctas-left h2 {
+    font-size: 29px;
+    margin: 0;
+    padding-bottom: 14px;
+    text-align: center;
+}
+
+.ctas-left p {
+    font-size: 15px;
+    text-align: center;
+}
+
+.ctas-left h5 {
+    font-size: 9px;
+    width: 100%;
+    height: 63px;
+    padding: 0 20px;
+    background: #FFFFFF;
+    border-radius: 200px;
+    line-height: 62px;
+    margin: 0;
+}
+
+.ctas-right img {
+    display: block;
+    margin: auto;
+    margin-right: 0;
+    width: 100%;
+    height: initial;
+    position: relative;
+    left: 0;
+    margin-top: 15px;
+}
+
+.ctas-area {
+    padding: 25px 0;
+    padding-bottom: 0;
+}
+
+.roadmap-top h2 {
+    font-size: 29px;
+    margin: 0;
+    padding-bottom: 14px;
+}
+
+.roadmap-top p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24.8px;
+    
+}
+
+.roadmap-part img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    display: none;
+}
+
+.ppp1 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    position: inherit;
+    top: 0px;
+    padding-left: 0px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.ppp2 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    position: inherit;
+    top: 0px;
+    padding-left: 0px;
+    left: 0;
+    text-align: center;
+    margin-top: 0px;
+    padding-bottom: 20px;
+}
+
+
+
+.item1 {
+    display: none;
+}
+
+
+.item2 {
+    display: block;
+}
+
+.ppp3 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    position: relative;
+    top: 0;
+    padding-left: 0;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+
+.ppp5 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    position: initial;
+    top: 1143px;
+    padding-left: 0;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+.ppp7 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    position: initial;
+    padding-left: 0px;
+    bottom: 0px;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+
+
+.fyasqs-left h2 {
+    font-size: 25px;
+    margin: 0;
+    padding-bottom: 17px;
+    text-align: center;
+    line-height: 36px;
+}
+
+.fyasqs-left p {
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 24.8px;
+    text-align: center;
+}
+
+
+.fyasqs-right img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-right: auto;
+    position: relative;
+    left: 0;
+}
+
+.dnfyasqs-part {
+    position: relative;
+    margin-top: -48px;
+}
+
+.ppp6 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 29px;
+    position: inherit;
+    top: 0;
+    text-align: center;
+    left: 0;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+.ppp4 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 30.8px;
+    position: inherit;
+    top: 0;
+    text-align: center;
+    left: 0;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+
+.ziehharmonika h3 {
+    font-size: 16px;
+    text-align: left;
+    border-radius: 4px;
+    padding: 16px 0px;
+    cursor: pointer;
+    margin-top: 0;
+    line-height: 28px;
+    margin-bottom: 2px;
+    padding-right: 23px;
+    transition: 0.25s all;
+    position: relative;
+    border-bottom: 1px solid #dae1dd;
+}
+
+.ziehharmonika .collapseIcon {
+    position: absolute;
+    right: 9px;
+    top: 50%;
+    font-size: 20px;
+    font-weight: 300;
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+}
+
+.ziehharmonika > div {
+    font-size: 13px;
+    font-weight: 400;
+    display: none;
+    background: none;
+    border-radius: 0;
+    text-align: left;
+    padding: 0px 0px;
+    margin-bottom: 9px;
+    border-bottom: 1px solid #dae1dd;
+    padding-bottom: 3px;
+}
+
+.fyasqs-area {
+    padding: 11px 0;
+    padding-top: 44px;
+}
+
+.footer-left h2 {
+    font-size: 46px;
+    margin: 0;
+    padding-bottom: 0px;
+    text-align: center;
+    padding-top: 32px;
+}
+
+.footer-left ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    padding-top: 14px;
+    text-align: center;
+}
+
+.footer-left ul li {
+    display: inline-block;
+    margin-right: 0;
+    margin: 0 7px;
+}
+
+.footer-right img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    margin-bottom: -1px;
+    margin-top: 17px;
+}
+
+.roadmap-top p {
+    padding-bottom: 30px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+
+.roadmap-area {
+    padding: 33px 0;
+    padding-bottom: 0;
+}
+
+.roadmap-line1 {
+    position: relative;
+    width: 2px;
+    display: block;
+    margin: auto;
+    display: none;
+}
+
+
+.roadmap-part h3 {
+    display: block;
+    font-family: "orbitron-bold";
+    color: #060D20;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+
+.mobileheader-area {
+    display: block;
+}
+
+.navbar-brand img {
+    width: 101px;
+}
+
+.main-menu-part ul {
+    padding-top: 0px;
+    padding-bottom: 15px;
+}
+
+.main-menu-part ul li {
+    float: none;
+    border-bottom: 1px solid #000000;
+}
+
+.main-menu-part ul li a {
+    padding: 21px 0px 12px 5px;
+}
+
+.header-area {
+    padding: 15px 0;
+    display: none;
+}
+
+
+.hero-left h2 {
+    font-size: 21px;
+    line-height: 34px;
+    margin: 0;
+    position: relative;
+}
+
+.hero-area {
+    padding: 20px 0;
+    padding-top: 40px;
+}
+
+.hero-left img {
+    position: absolute;
+    width: 145px;
+    height: 51px;
+    left: -13px;
+    top: -10px;
+}
+
+.hero-left p {
+    font-size: 14px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 24.8px;
+    padding-bottom: 29px;
+    padding-top: 18px;
+}
+
+.hero-left ul li {
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.hero-left ul li a {
+    width: 130px;
+    height: 50px;
+    border-radius: 100px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.hero-left ul li:nth-child(2) a {
+    width: 129px;
+    height: 50px;
+    border-radius: 100px;
+    display: inline-block;
+    line-height: 50px;
+}
+
+.hero-right img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    position: relative;
+    left: 0;
+    margin-top: 38px;
+}
+
+.features-area {
+    padding: 35px 0;
+    padding-bottom: 35px;
+}
+
+.features-part {
+    width: 100%;
+    height: inherit;
+    padding: 19px;
+    border-radius: 24px;
+}
+
+
+.features-left img {
+    width: 100%;
+    height: inherit;
+    display: block;
+    margin-top: 19px;
+    margin-bottom: 25px;
+}
+
+.features-right h2 {
+    font-size: 34px;
+    margin: 0;
+    padding-bottom: 11px;
+}
+
+
+
+.features-right1 {
+    width: 100%;
+    height: initial;
+    border-radius: 10px;
+    padding: 17px;
+    margin-bottom: 15px;
+}
+
+
+.features-right2 {
+    width: 100%;
+    height: initial;
+    border-radius: 10px;
+    padding: 17px;
+    margin-bottom: 15px;
+}
+
+
+.features-right3 {
+    width: 100%;
+    height: initial;
+    border-radius: 10px;
+    padding: 17px;
+    margin-bottom: 15px;
+}
+
+.ctas-left h2 {
+    font-size: 29px;
+    margin: 0;
+    padding-bottom: 14px;
+    text-align: center;
+}
+
+.ctas-left p {
+    font-size: 15px;
+    text-align: center;
+}
+
+.ctas-left h5 {
+    font-size: 9px;
+    width: 100%;
+    height: 63px;
+    padding: 0 20px;
+    background: #FFFFFF;
+    border-radius: 200px;
+    line-height: 62px;
+    margin: 0;
+}
+
+.ctas-right img {
+    display: block;
+    margin: auto;
+    margin-right: 0;
+    width: 100%;
+    height: initial;
+    position: relative;
+    left: 0;
+    margin-top: 15px;
+}
+
+.ctas-area {
+    padding: 25px 0;
+    padding-bottom: 0;
+}
+
+.roadmap-top h2 {
+    font-size: 29px;
+    margin: 0;
+    padding-bottom: 14px;
+}
+
+.roadmap-top p {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24.8px;
+    
+}
+
+.roadmap-part img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    display: none;
+}
+
+.ppp1 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    position: inherit;
+    top: 0px;
+    padding-left: 0px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.ppp2 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    position: inherit;
+    top: 0px;
+    padding-left: 0px;
+    left: 0;
+    text-align: center;
+    margin-top: 0px;
+    padding-bottom: 20px;
+}
+
+
+
+.item1 {
+    display: none;
+}
+
+
+.item2 {
+    display: block;
+}
+
+.ppp3 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    position: relative;
+    top: 0;
+    padding-left: 0;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+
+.ppp5 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    position: initial;
+    top: 1143px;
+    padding-left: 0;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+.ppp7 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 20px;
+    position: initial;
+    padding-left: 0px;
+    bottom: 0px;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+
+
+.fyasqs-left h2 {
+    font-size: 25px;
+    margin: 0;
+    padding-bottom: 17px;
+    text-align: center;
+    line-height: 36px;
+}
+
+.fyasqs-left p {
+    font-size: 15px;
+    font-weight: 400;
+    margin: 0;
+    line-height: 24.8px;
+    text-align: center;
+}
+
+
+.fyasqs-right img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin-right: auto;
+    position: relative;
+    left: 0;
+}
+
+.dnfyasqs-part {
+    position: relative;
+    margin-top: -48px;
+}
+
+.ppp6 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 29px;
+    position: inherit;
+    top: 0;
+    text-align: center;
+    left: 0;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+.ppp4 {
+    font-size: 13px;
+    margin: 0;
+    line-height: 30.8px;
+    position: inherit;
+    top: 0;
+    text-align: center;
+    left: 0;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+
+
+.ziehharmonika h3 {
+    font-size: 16px;
+    text-align: left;
+    border-radius: 4px;
+    padding: 16px 0px;
+    cursor: pointer;
+    margin-top: 0;
+    line-height: 28px;
+    margin-bottom: 2px;
+    padding-right: 23px;
+    transition: 0.25s all;
+    position: relative;
+    border-bottom: 1px solid #dae1dd;
+}
+
+.ziehharmonika .collapseIcon {
+    position: absolute;
+    right: 9px;
+    top: 50%;
+    font-size: 20px;
+    font-weight: 300;
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+}
+
+.ziehharmonika > div {
+    font-size: 13px;
+    font-weight: 400;
+    display: none;
+    background: none;
+    border-radius: 0;
+    text-align: left;
+    padding: 0px 0px;
+    margin-bottom: 9px;
+    border-bottom: 1px solid #dae1dd;
+    padding-bottom: 3px;
+}
+
+.fyasqs-area {
+    padding: 11px 0;
+    padding-top: 44px;
+}
+
+.footer-left h2 {
+    font-size: 46px;
+    margin: 0;
+    padding-bottom: 0px;
+    text-align: center;
+    padding-top: 32px;
+}
+
+.footer-left ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    padding-top: 14px;
+    text-align: center;
+}
+
+.footer-left ul li {
+    display: inline-block;
+    margin-right: 0;
+    margin: 0 7px;
+}
+
+.footer-right img {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+    margin-bottom: -1px;
+    margin-top: 17px;
+}
+
+.roadmap-top p {
+    padding-bottom: 30px;
+    padding-top: 0px;
+    text-align: center;
+}
+
+
+.roadmap-area {
+    padding: 33px 0;
+    padding-bottom: 0;
+}
+
+.roadmap-line1 {
+    position: relative;
+    width: 2px;
+    display: block;
+    margin: auto;
+    display: none;
+}
+
+
+.roadmap-part h3 {
+    display: block;
+    font-family: "orbitron-bold";
+    color: #060D20;
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+}
